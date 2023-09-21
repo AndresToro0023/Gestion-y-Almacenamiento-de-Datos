@@ -3,6 +3,8 @@
 @LuisFernandoZuluaga
 
 ## Problematica
+PJM Interconnection LLC (PJM), es una organización de transmisión de energía de la región oriental que estados unidos y que tiene incidencia en todo o partes de Delaware, Illinois, Indiana, Kentucky, Maryland, Michigan, Nueva Jersey, Carolina del Norte, Ohio, Pensilvania, Tennessee, Virginia, Virginia Occidental y el Distrito de Columbia. 
+Con el análisis de los consumos(en Megavatios) se podría predecir como seria la demanda de energía que se requiere por cada franja horaria permitiendo a los entes que generan la energía poder hacer proyecciones de la cantidad de energía que deben tener disponible en cada franja horaria.
 
 ## Contenido del Repositorio
 En el repositorio se encuentra la base de informacion de consumo energetico en MWh para estados de USA, adicional se encuentra el scip con el cual se realiza el analisis y estructuracion de los datos, el cual reemplaza los datos nulos por consumos promedios de acuerdo a las franjas horarias, como resultado del scrip anterior se anexa eñ la base de datos completa sin valores nulos.
