@@ -11,7 +11,7 @@ En el repositorio se encuentra la base de informacion de consumo energetico en M
 Por ultimo se incluye scrip en el cual por medio de sqlite3 se realiza manipulacion de la base de datos final (Creacion de base de datos, ingreso de informacion, consultas y eliminacion )
 
 ## Cuantos datos tomó, de que son y cuantas características tienen
-Inicialmente contamos con 2.317.406 datos del consumo energetico en MWh en 13 características:
+Inicialmente contamos con 2.317.406 datos del consumo energetico en MWh en 13 características y 178262 registros:
 1. Datetime
 2. AEP
 3. COMED
@@ -26,3 +26,7 @@ Inicialmente contamos con 2.317.406 datos del consumo energetico en MWh en 13 ca
 12. PJMW
 13. PJM_Load
 
+## Que encontró en los datos
+Como resultado del proceso de analisis y trasnformacion de la informacion, encontramos mediciones de consumos energetico de forma individual para cada uno de los estados en cuatro diferentes tiempos, anuales, mensuales, diarios y horarios, de esta forma se identifican patrones de comportamiento de consumo con diferencias en cada tiempo y cada estado.
+
+## Cómo su descubrimiento podría dar valor a una empresa
