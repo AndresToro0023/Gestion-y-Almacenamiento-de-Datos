@@ -1,4 +1,7 @@
 # Proyecto Final - Analisis Consumo Energetico Horario MWh
+@Reyesbt21
+@LuisFernandoZuluaga
+
 ## Problematica
 
 ## Contenido del Repositorio
